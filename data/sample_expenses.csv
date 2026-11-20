@@ -1,0 +1,31 @@
+date,description,amount,category
+2026-06-03,grocery vegetables,620,Food
+2026-06-05,bus ticket,80,Transport
+2026-06-08,electricity bill,1450,Bills
+2026-06-12,movie ticket,350,Entertainment
+2026-06-18,pharmacy medicine,420,Health
+2026-07-02,pizza lunch,280,Food
+2026-07-04,metro card recharge,300,Transport
+2026-07-09,new shirt,999,Shopping
+2026-07-13,internet broadband bill,799,Bills
+2026-07-20,college tuition fee,2500,Education
+2026-08-01,restaurant dinner,650,Food
+2026-08-03,uber ride,210,Transport
+2026-08-07,music streaming,129,Entertainment
+2026-08-12,doctor consultation,500,Health
+2026-08-21,online shopping order,1200,Shopping
+2026-09-02,supermarket groceries,1350,Food
+2026-09-06,petrol fuel,900,Transport
+2026-09-10,water bill payment,450,Bills
+2026-09-14,online course,999,Education
+2026-09-22,hotel booking,2200,Travel
+2026-10-03,food delivery order,420,Food
+2026-10-06,ola cab fare,260,Transport
+2026-10-11,shoes purchase,1800,Shopping
+2026-10-15,movie ticket,400,Entertainment
+2026-10-23,pharmacy medicine,310,Health
+2026-11-02,canteen lunch,160,Food
+2026-11-04,bus ticket,60,Transport
+2026-11-08,mobile recharge,299,Bills
+2026-11-12,bakery cake,350,Food
+2026-11-16,concert ticket,750,Entertainment

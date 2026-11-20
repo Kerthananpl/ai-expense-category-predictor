@@ -1,0 +1,69 @@
+description,category
+pizza lunch,Food
+restaurant dinner,Food
+coffee shop,Food
+grocery vegetables,Food
+supermarket groceries,Food
+burger meal,Food
+tea and snacks,Food
+food delivery order,Food
+canteen lunch,Food
+bakery cake,Food
+milk bread eggs,Food
+fruit shop,Food
+bus ticket,Transport
+metro card recharge,Transport
+uber ride,Transport
+ola cab fare,Transport
+petrol fuel,Transport
+auto rickshaw,Transport
+train ticket,Transport
+parking fee,Transport
+bike taxi,Transport
+car service,Transport
+new shirt,Shopping
+online shopping order,Shopping
+shoes purchase,Shopping
+mobile phone case,Shopping
+electronics store,Shopping
+clothes shopping,Shopping
+mall purchase,Shopping
+bookstore purchase,Shopping
+electricity bill,Bills
+water bill payment,Bills
+internet broadband bill,Bills
+mobile recharge,Bills
+rent payment,Bills
+gas cylinder,Bills
+subscription payment,Bills
+maintenance charge,Bills
+movie ticket,Entertainment
+concert ticket,Entertainment
+music streaming,Entertainment
+video game purchase,Entertainment
+ bowling,Entertainment
+amusement park,Entertainment
+ott subscription,Entertainment
+doctor consultation,Health
+pharmacy medicine,Health
+medical test,Health
+dentist appointment,Health
+hospital bill,Health
+vitamins purchase,Health
+college tuition fee,Education
+online course,Education
+exam registration,Education
+school supplies,Education
+coding course,Education
+notebook purchase,Education
+hotel booking,Travel
+flight ticket,Travel
+holiday resort,Travel
+travel package,Travel
+airport transfer,Travel
+tourist attraction,Travel
+miscellaneous payment,Other
+cash withdrawal,Other
+gift purchase,Other
+donation,Other
+bank charges,Other

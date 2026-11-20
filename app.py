@@ -4,6 +4,7 @@ import numpy as np
 import joblib
 from pathlib import Path
 from datetime import date
+from train_model import build_model
 import plotly.express as px
 import plotly.graph_objects as go
 
@@ -19,7 +20,8 @@ CATEGORIES = ["Food", "Transport", "Shopping", "Bills", "Entertainment", "Health
 def load_model():
     if MODEL_PATH.exists():
         return joblib.load(MODEL_PATH)
-    return None
+    training_data = pd.read_csv(ROOT / "data" / "training_expenses.csv")
+    return build_model(training_data)
 
 def load_expenses():
     if DATA_PATH.exists():
@@ -71,9 +73,6 @@ st.title("💸 AI Expense Category Predictor")
 st.caption("Track spending, automatically classify transactions, and estimate next month's expenses.")
 
 model = load_model()
-if model is None:
-    st.error("The machine-learning model is missing. Run `python train_model.py` in the project folder, then refresh this page.")
-    st.stop()
 
 df = load_expenses()
 uploaded_expenses = None

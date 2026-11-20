@@ -10,6 +10,7 @@ A beginner-friendly machine-learning project that classifies expense description
 - Estimates next month's spending using a simple linear trend.
 - Imports and exports CSV transactions.
 - Analyzes uploaded transactions with spending totals, averages, category breakdowns, and monthly trends.
+- Trains the model in memory from the bundled examples if a saved model file is unavailable.
 - Includes demo data so the app can be tested immediately.
 
 ## Technology
